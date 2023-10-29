@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <ProjectGuid>{AA18EBCF-7E9D-4BC5-8760-E8C6E9A773E5}</ProjectGuid>
+    <ProjectGuid>{82C454A9-BFD0-4D40-BEC2-D6F6DCC0AF07}</ProjectGuid>
     <OutputType>Library</OutputType>
     <OutputPath>$(SolutionDir)bin\</OutputPath>
     <AppDesignerFolder>Properties</AppDesignerFolder>
